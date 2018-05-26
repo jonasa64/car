@@ -1,0 +1,6 @@
+export const Types = {
+    SET_CAR_LIST: 'SET_CAR_LIST',
+    SET_CAR_DETAIL: 'SET_CAR_DETAIL',
+    SET_SIGN_IN_ERROR: 'SET_SIGN_IN_ERROR',
+
+ };

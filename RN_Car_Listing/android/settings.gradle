@@ -1,0 +1,3 @@
+rootProject.name = 'RN_Car_Listing'
+
+include ':app'
